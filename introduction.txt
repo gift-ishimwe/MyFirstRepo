@@ -1,0 +1,8 @@
+Brief Introduction About Myself
+
+Hi, this is Gift Ishimwe, a data science enthusiast passionate about leveraging data analytics and machine learning to create impactful solutions in healthcare, with a special focus on mental healthcare in Rwanda.
+He combines technical expertise with purpose, using problem-solving, teamwork, and data-driven decision-making to uncover gaps, predict outcomes, and optimise resource allocation, making mental health services more accessible and effective. 
+His mission is to turn insights into action—analysing patterns, predicting mental health issues, and improving decision-making to ensure better care. 
+Data science empowers him to drive positive change in Rwanda’s mental health sector. 
+To excel, he continuously develops problem-solving, analytical, and programming skills, while staying updated on trends and maintaining a growth mindset. 
+Through his work, he strives to improve healthcare and make a meaningful impact.
