@@ -1,0 +1,1 @@
+Throughout, the week I have been able to learn more about version control, Git and GitHub, and how to manage files both on the local machine and online. I learned more about various git commands, and repositories.
